@@ -71,6 +71,20 @@ The goal of this project was to build hands-on operational experience with moder
 
 # Workflow Highlights
 
+# Screenshots
+
+## Ticket Queue Overview
+
+![Ticket Queue](04-screenshots/05-multiple-ticket-queue.png)
+
+## Security Escalation Workflow
+
+![Escalated Ticket](04-screenshots/06-escalated-ticket.png)
+
+## Ticket Resolution Example
+
+![Resolved Ticket](04-screenshots/04-ticket-resolved.png)
+
 ## Ticket Lifecycle Management
 Simulated complete ticket handling workflows including:
 - Ticket creation
