@@ -85,14 +85,3 @@ Managed multiple concurrent tickets with varying priorities and issue types to s
 
 ## Security Escalation
 Escalated suspicious login activity after identifying indicators consistent with unauthorized authentication attempts and documented recommended containment actions.
-
----
-
-# Repository Structure
-
-```text
-01-environment-overview/
-02-ticket-workflows/
-03-active-tickets/
-04-screenshots/
-README.md
