@@ -34,7 +34,7 @@ The goal of this project was to build hands-on operational experience with moder
 - Ticket lifecycle management
 - Queue prioritization
 - Incident handling
-- Service request fulfillment
+- End-user support request fulfillment
 - User support workflows
 
 ## Troubleshooting
@@ -65,7 +65,7 @@ The goal of this project was to build hands-on operational experience with moder
 | Office 365 Password Reset | User Support | Pending |
 | Outlook Mailbox Sync Issue | Incident | Pending |
 | Failed Login Attempt Investigation | Security Escalation | Escalated |
-| Adobe Acrobat Installation Request | Service Request | Resolved |
+| Adobe Acrobat Installation Request | Support Request | Resolved |
 
 ---
 
@@ -85,3 +85,14 @@ Managed multiple concurrent tickets with varying priorities and issue types to s
 
 ## Security Escalation
 Escalated suspicious login activity after identifying indicators consistent with unauthorized authentication attempts and documented recommended containment actions.
+
+---
+
+# Project Outcomes
+This lab strengthened practical understanding of IT support operations, ticket management workflows, troubleshooting processes, escalation handling, and customer communication within a simulated enterprise support environment.
+
+---
+
+# Note
+This project was created for educational and portfolio purposes using a simulated IT support environment. All organizations, users, domains, and support scenarios are fictional.
+Because the environment used simulated email accounts and non-production domains, some outbound ticket responses generated delivery notification messages within the ticketing platform.
