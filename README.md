@@ -99,9 +99,10 @@ Escalated suspicious login activity after identifying indicators consistent with
 ![Escalated Ticket](04-screenshots/06-escalated-ticket.png)
 
 ## Ticket Resolution Example
+Demonstrates documented troubleshooting communication and completed ticket resolution workflow. Delivery notification messages appear because the environment used simulated email accounts and non-production domains; in a live production environment, the workflow and communication process would function normally.
 
 ![Resolved Ticket](04-screenshots/04-ticket-resolved.png)
-Demonstrates documented troubleshooting communication and completed ticket resolution workflow. Delivery notification messages appear because the environment used simulated email accounts and non-production domains; in a live production environment, the workflow and communication process would function normally.
+
 
 
 # Project Outcomes
