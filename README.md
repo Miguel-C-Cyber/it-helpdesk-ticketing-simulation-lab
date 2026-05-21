@@ -71,21 +71,6 @@ The goal of this project was to build hands-on operational experience with moder
 
 # Workflow Highlights
 
-# Screenshots
-
-## Ticket Queue Overview
-
-![Ticket Queue](04-screenshots/05-multiple-ticket-queue.png)
-
-## Security Escalation Workflow
-
-![Escalated Ticket](04-screenshots/06-escalated-ticket.png)
-
-## Ticket Resolution Example
-
-![Resolved Ticket](04-screenshots/04-ticket-resolved.png)
-Demonstrates documented troubleshooting communication and completed ticket resolution workflow. Delivery notification messages appear because the environment used simulated email accounts and non-production domains; in a live production environment, the workflow and communication process would function normally.
-
 ## Ticket Lifecycle Management
 Simulated complete ticket handling workflows including:
 - Ticket creation
@@ -102,6 +87,22 @@ Managed multiple concurrent tickets with varying priorities and issue types to s
 Escalated suspicious login activity after identifying indicators consistent with unauthorized authentication attempts and documented recommended containment actions.
 
 ---
+
+# Screenshots
+
+## Ticket Queue Overview
+
+![Ticket Queue](04-screenshots/05-multiple-ticket-queue.png)
+
+## Security Escalation Workflow
+
+![Escalated Ticket](04-screenshots/06-escalated-ticket.png)
+
+## Ticket Resolution Example
+
+![Resolved Ticket](04-screenshots/04-ticket-resolved.png)
+Demonstrates documented troubleshooting communication and completed ticket resolution workflow. Delivery notification messages appear because the environment used simulated email accounts and non-production domains; in a live production environment, the workflow and communication process would function normally.
+
 
 # Project Outcomes
 This lab strengthened practical understanding of IT support operations, ticket management workflows, troubleshooting processes, escalation handling, and customer communication within a simulated enterprise support environment.
