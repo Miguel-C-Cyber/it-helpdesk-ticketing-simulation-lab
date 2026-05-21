@@ -1,43 +1,98 @@
 # IT Help Desk Ticketing Simulation Lab
 
 ## Overview
-This project simulates a real-world IT Service Desk environment for a fictional healthcare organization (LakeAve Health Systems). It demonstrates IT support workflows including ticket intake, triage, prioritization, escalation, and resolution using a modern ticketing system.
+This project simulates a real-world IT Service Desk environment for a fictional healthcare organization, **LakeAve Health Systems**, using the Freshdesk cloud ticketing platform.
 
-## Objectives
-- Simulate Tier 1 Help Desk operations
-- Practice ticket triage and prioritization
-- Document troubleshooting and resolution workflows
-- Demonstrate escalation logic for security-related incidents
-- Manage multiple tickets in a queue environment
+The lab was designed to replicate common Tier 1 IT support responsibilities including ticket intake, triage, prioritization, troubleshooting, escalation, documentation, and resolution workflows.
 
-## Tools Used
-- Freshdesk (Cloud Help Desk Platform)
-- Windows-based troubleshooting simulation
-- IT service desk workflows (Incident & Service Request handling)
+The goal of this project was to build hands-on operational experience with modern help desk processes while demonstrating professional documentation and customer support practices.
 
-## Key Skills Demonstrated
-- IT support ticket management
-- Incident classification and prioritization
-- Troubleshooting SaaS and connectivity issues
-- Security incident escalation awareness
-- Customer communication and documentation
-- Multi-ticket queue management
+---
 
-## Ticket Scenarios Included
-- VPN connectivity issues (remote access support)
-- Office 365 password reset issues
-- Outlook email synchronization problems
-- Security alert (failed login attempts / potential brute force)
-- Software installation request (Adobe Acrobat)
+## Environment Summary
 
-## Workflow Highlights
-- Ticket lifecycle management (Open → Pending → Resolved)
-- Internal vs public communication handling
-- Escalation of security-related incidents
-- Multi-ticket queue prioritization
+### Simulated Organization
+- LakeAve Health Systems
+- Healthcare-focused support environment
+- Remote and office-based users
 
-## Disclaimer
-This is a simulated environment created for educational and portfolio purposes. All users, organizations, and scenarios are fictional.
+### Platform Used
+- Freshdesk (Cloud Help Desk System)
 
-## Screenshots
-See `/04-screenshots` for workflow evidence.
+### Simulated Support Areas
+- VPN connectivity support
+- Microsoft Office 365 account support
+- Outlook email troubleshooting
+- Software installation requests
+- Security-related login investigations
+
+---
+
+# Skills Demonstrated
+
+## IT Support Operations
+- Ticket lifecycle management
+- Queue prioritization
+- Incident handling
+- Service request fulfillment
+- User support workflows
+
+## Troubleshooting
+- VPN connectivity troubleshooting
+- Outlook synchronization issue handling
+- Office 365 account access support
+- Software provisioning workflows
+
+## Security Awareness
+- Detection of suspicious authentication activity
+- Escalation workflow documentation
+- Security-focused ticket triage
+- Incident escalation procedures
+
+## Documentation & Communication
+- Internal troubleshooting documentation
+- Public customer-facing responses
+- Resolution documentation
+- Ticket update management
+
+---
+
+# Ticket Scenarios
+
+| Ticket | Category | Status |
+|---|---|---|
+| VPN Connectivity Issue | Incident | Resolved |
+| Office 365 Password Reset | User Support | Pending |
+| Outlook Mailbox Sync Issue | Incident | Pending |
+| Failed Login Attempt Investigation | Security Escalation | Escalated |
+| Adobe Acrobat Installation Request | Service Request | Resolved |
+
+---
+
+# Workflow Highlights
+
+## Ticket Lifecycle Management
+Simulated complete ticket handling workflows including:
+- Ticket creation
+- Initial triage
+- Troubleshooting documentation
+- Priority handling
+- Escalation procedures
+- Resolution updates
+
+## Queue Management
+Managed multiple concurrent tickets with varying priorities and issue types to simulate realistic IT support operations.
+
+## Security Escalation
+Escalated suspicious login activity after identifying indicators consistent with unauthorized authentication attempts and documented recommended containment actions.
+
+---
+
+# Repository Structure
+
+```text
+01-environment-overview/
+02-ticket-workflows/
+03-active-tickets/
+04-screenshots/
+README.md
