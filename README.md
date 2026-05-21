@@ -1,4 +1,4 @@
-# IT Help Desk Ticketing Simulation Lab
+# IT Help Desk Ticketing Lab
 
 ## Overview
 This project simulates a real-world IT Service Desk environment for a fictional healthcare organization, **LakeAve Health Systems**, using the Freshdesk cloud ticketing platform.
