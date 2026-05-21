@@ -65,7 +65,7 @@ The goal of this project was to build hands-on operational experience with moder
 | Office 365 Password Reset | User Support | Pending |
 | Outlook Mailbox Sync Issue | Incident | Pending |
 | Failed Login Attempt Investigation | Security Escalation | Escalated |
-| Adobe Acrobat Installation Request | Support Request | Resolved |
+| Adobe Acrobat Installation Request | User Support | Resolved |
 
 ---
 
