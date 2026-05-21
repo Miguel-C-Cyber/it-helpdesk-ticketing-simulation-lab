@@ -84,6 +84,7 @@ The goal of this project was to build hands-on operational experience with moder
 ## Ticket Resolution Example
 
 ![Resolved Ticket](04-screenshots/04-ticket-resolved.png)
+Demonstrates documented troubleshooting communication and completed ticket resolution workflow. Delivery notification messages appear because the environment used simulated email accounts and non-production domains; in a live production environment, the workflow and communication process would function normally.
 
 ## Ticket Lifecycle Management
 Simulated complete ticket handling workflows including:
